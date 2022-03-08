@@ -1,8 +1,3 @@
-'''
-Aplicacion con el objetivo de evitar que el ordenador se bloquee, para ello cada
-30 segundos clica en el raton en la esquina superior izquierda de la pantalla.
-'''
-
 import ctypes
 import time
 
